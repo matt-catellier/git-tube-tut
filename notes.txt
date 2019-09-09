@@ -1,0 +1,6 @@
+=== Why go ====
+- compiled, statitcally typed
+- really fast, built to work at scale
+
+=== Package ====
+- all functions in a package that are exported will be capitalized
